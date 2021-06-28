@@ -1,0 +1,45 @@
+.quadro1 {
+    float: left;
+    height: 690px;
+    width: 636px;
+    color: #888282;
+    border:1px solid;
+    font-family: monospace;
+    
+}
+
+.quadro2 {
+    float: left;
+    height: 100px;
+    width: 632px;
+    color: #b41e7b;
+    border:1px solid;
+}
+
+.quadro3 {
+    float: left;
+    height: 380px;
+    width: 410px;
+    color: #48a58e;
+    border:1px solid;
+    font-family: monospace;
+    
+}
+
+.quadro4 {
+    float: right;
+    height: 380px;
+    width: 220px;
+    color: #3982c7;
+    border:1px solid;
+    font-family: monospace;
+    
+}
+.quadro5 {
+    float: left;
+    height: 100px;
+    width: 632px;
+    color: #d6661b;
+    border:1px solid;
+    font-family: monospace;
+}  
